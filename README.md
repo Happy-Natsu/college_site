@@ -5,7 +5,7 @@ These are all the changes I made in the college site. I made major changes in ht
    The file location in collge site source is.
    www.jntuacea.ac.in\75years\index.html.
    I replaced the existing code for social icons to this
-   {
+   /*
       <div>
             <div class="col">
             <footer id="footerpad">
@@ -46,7 +46,7 @@ These are all the changes I made in the college site. I made major changes in ht
                 <p class="copyright text-muted text-center">Copyright &copy; JNTUACEA | All rights reserved.</p>
             </footer>
         </div>
-  }
+  */
   and made changes in the Footer-with-social-media-icons.css file which I uploaded above. The location of Footer-with-social-media-icons.css in college site is
   www.jntuacea.ac.in\75years\assets\css\Footer-with-social-media-icons.css.
   ->replce the existing code for socila media icons in all html pages in www.jntuacea.ac.in\75years to see change in all pages.
